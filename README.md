@@ -1,2 +1,2 @@
 # osx-css
-An OSX-style window in CSS
+An OSX-style window in CSS.
